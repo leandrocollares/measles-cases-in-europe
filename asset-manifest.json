@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09049418.chunk.css",
+    "main.js": "/static/js/main.4246927e.chunk.js",
+    "main.js.map": "/static/js/main.4246927e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4ff7454.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4ff7454.js.map",
+    "static/js/2.7d71393b.chunk.js": "/static/js/2.7d71393b.chunk.js",
+    "static/js/2.7d71393b.chunk.js.map": "/static/js/2.7d71393b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.695f3c4014643bbb5c94295c3bc29289.js": "/precache-manifest.695f3c4014643bbb5c94295c3bc29289.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.09049418.chunk.css.map": "/static/css/main.09049418.chunk.css.map",
+    "static/js/2.7d71393b.chunk.js.LICENSE": "/static/js/2.7d71393b.chunk.js.LICENSE",
+    "static/media/App.scss": "/static/media/lato-v15-latin-regular.d1d5e30a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4ff7454.js",
+    "static/js/2.7d71393b.chunk.js",
+    "static/css/main.09049418.chunk.css",
+    "static/js/main.4246927e.chunk.js"
+  ]
+}
