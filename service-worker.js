@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/measles-cases-in-europe/precache-manifest.f9592d25e2ca05fe77a6ba7e5879b24c.js"
+  "/measles-cases-in-europe/precache-manifest.d363e75e02ef19e26492516d84d5ae69.js"
 );
 
 self.addEventListener('message', (event) => {

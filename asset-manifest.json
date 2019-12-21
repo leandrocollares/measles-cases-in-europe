@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/measles-cases-in-europe/static/css/main.b2f77730.chunk.css",
+    "main.css": "/measles-cases-in-europe/static/css/main.b332fd69.chunk.css",
     "main.js": "/measles-cases-in-europe/static/js/main.52cc7233.chunk.js",
     "main.js.map": "/measles-cases-in-europe/static/js/main.52cc7233.chunk.js.map",
     "runtime-main.js": "/measles-cases-in-europe/static/js/runtime-main.c36487a1.js",
@@ -8,16 +8,16 @@
     "static/js/2.7d71393b.chunk.js": "/measles-cases-in-europe/static/js/2.7d71393b.chunk.js",
     "static/js/2.7d71393b.chunk.js.map": "/measles-cases-in-europe/static/js/2.7d71393b.chunk.js.map",
     "index.html": "/measles-cases-in-europe/index.html",
-    "precache-manifest.f9592d25e2ca05fe77a6ba7e5879b24c.js": "/measles-cases-in-europe/precache-manifest.f9592d25e2ca05fe77a6ba7e5879b24c.js",
+    "precache-manifest.d363e75e02ef19e26492516d84d5ae69.js": "/measles-cases-in-europe/precache-manifest.d363e75e02ef19e26492516d84d5ae69.js",
     "service-worker.js": "/measles-cases-in-europe/service-worker.js",
-    "static/css/main.b2f77730.chunk.css.map": "/measles-cases-in-europe/static/css/main.b2f77730.chunk.css.map",
+    "static/css/main.b332fd69.chunk.css.map": "/measles-cases-in-europe/static/css/main.b332fd69.chunk.css.map",
     "static/js/2.7d71393b.chunk.js.LICENSE": "/measles-cases-in-europe/static/js/2.7d71393b.chunk.js.LICENSE",
     "static/media/App.scss": "/measles-cases-in-europe/static/media/lato-v15-latin-regular.d1d5e30a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.c36487a1.js",
     "static/js/2.7d71393b.chunk.js",
-    "static/css/main.b2f77730.chunk.css",
+    "static/css/main.b332fd69.chunk.css",
     "static/js/main.52cc7233.chunk.js"
   ]
 }

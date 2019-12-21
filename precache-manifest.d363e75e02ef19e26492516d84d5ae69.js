@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7599216f8982d34a43e5ea59e980a05",
+    "revision": "6ebbd73b1f7357ddc63f4814e66d03bf",
     "url": "/measles-cases-in-europe/index.html"
   },
   {
-    "revision": "a72e6042f1adc5e20ef5",
-    "url": "/measles-cases-in-europe/static/css/main.b2f77730.chunk.css"
+    "revision": "941e09f4c47ece70c514",
+    "url": "/measles-cases-in-europe/static/css/main.b332fd69.chunk.css"
   },
   {
     "revision": "4e7bf747a241c987496f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/measles-cases-in-europe/static/js/2.7d71393b.chunk.js.LICENSE"
   },
   {
-    "revision": "a72e6042f1adc5e20ef5",
+    "revision": "941e09f4c47ece70c514",
     "url": "/measles-cases-in-europe/static/js/main.52cc7233.chunk.js"
   },
   {
